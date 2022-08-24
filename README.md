@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋, I'm Abdulsalam Ibrahim</h1>
-<h3 align="center">A passionate JavaScript and frontend developer</h3>
+<h3 align="center">A passionate JavaScript and Frontend developer</h3>
 
-- 🌱 I’m currently learning **Testing frameworks like Cypress and Web3**
+- 🌱 I’m currently learning **about Web3**
 
 - 👨‍💻 All of my projects are available at [github.com/snazzyai](github.com/snazzyai)
 
